@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/60635017/129642869-8c68ccfe-555f-425f-bea0-438e5a47c949.png" alt="my banner">
 
-<!--
-**EmperorPenguin18/EmperorPenguin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Sebastien 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: getting my projects to stable releases
+- 🌱 I’m currently learning: as much as I can
+- 📫 How to reach me: Email at 18sml8@queensu.ca
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love the outdoors as much as coding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a list of my coolest projects by language:  
+**Shell** - [linux-installer](https://github.com/EmperorPenguin18/linux-installer)  
+**C++/Databases** - [libscry](https://github.com/EmperorPenguin18/libscry)  
+**Python** - [roguelike](https://github.com/EmperorPenguin18/roguelike)  
+**Rust** - [gobble](https://github.com/EmperorPenguin18/gobble)  
+**Web** - [le-site](https://github.com/EmperorPenguin18/le-site)  
+**VBA/TeX** - [le-cert](https://github.com/EmperorPenguin18/le-cert)  
+**Android/Java** - [treasurehunt](https://github.com/EmperorPenguin18/treasurehunt)  
+
+I also have lots of gists worth checking out.
+
+If you would like to support what I do consider donating!
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EmperorPenguin18)](https://github.com/EmperorPenguin18)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorPenguin18&layout=compact)](https://github.com/EmperorPenguin18)
