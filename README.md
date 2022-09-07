@@ -14,6 +14,7 @@ Here is a list of my coolest projects by language:
 **C** - [assembler](https://github.com/EmperorPenguin18/assembler)  
 **Python** - [roguelike](https://github.com/EmperorPenguin18/roguelike)  
 **Rust** - [gobble](https://github.com/EmperorPenguin18/gobble)  
+**Go** - [go-fetch](https://github.com/EmperorPenguin18/go-fetch)  
 **Web** - [le-site](https://github.com/EmperorPenguin18/le-site)  
 **VBA/TeX** - [le-cert](https://github.com/EmperorPenguin18/le-cert)  
 **Android/Java** - [treasurehunt](https://github.com/EmperorPenguin18/treasurehunt)  
