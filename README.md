@@ -11,7 +11,7 @@
 Here is a list of my coolest projects by language:  
 **Shell** - [linux-installer](https://github.com/EmperorPenguin18/linux-installer)  
 **C++/Databases** - [libscry](https://github.com/EmperorPenguin18/libscry)  
-**C** - [assembler](https://github.com/EmperorPenguin18/assembler)  
+**C** - [tidal](https://github.com/EmperorPenguin18/tidalpp)  
 **Python** - [roguelike](https://github.com/EmperorPenguin18/roguelike)  
 **Rust** - [gobble](https://github.com/EmperorPenguin18/gobble)  
 **Lua** - [mpv-jellyfin](https://github.com/EmperorPenguin18/mpv-jellyfin)  
