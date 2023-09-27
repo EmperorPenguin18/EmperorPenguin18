@@ -9,16 +9,21 @@
 - ⚡ Fun fact: I love the outdoors as much as coding!
 
 Here is a list of my coolest projects by language:  
-**Shell** - [linux-installer](https://github.com/EmperorPenguin18/linux-installer)  
-**C++/Databases** - [libscry](https://github.com/EmperorPenguin18/libscry)  
-**C** - [tidal](https://github.com/EmperorPenguin18/tidal2d)  
-**Python** - [roguelike](https://github.com/EmperorPenguin18/roguelike)  
-**Rust** - [gobble](https://github.com/EmperorPenguin18/gobble)  
-**Lua** - [mpv-jellyfin](https://github.com/EmperorPenguin18/mpv-jellyfin)  
-**Go** - [go-fetch](https://github.com/EmperorPenguin18/go-fetch)  
-**Web** - [le-site](https://github.com/EmperorPenguin18/le-site)  
-**VBA/TeX** - [le-cert](https://github.com/EmperorPenguin18/le-cert)  
-**Android/Java** - [treasurehunt](https://github.com/EmperorPenguin18/treasurehunt)  
+**C**  
+~ [Tidal2D](https://github.com/EmperorPenguin18/tidal2d)  
+~ [assembler](https://github.com/EmperorPenguin18/assembler)  
+**C++**  
+~ [libscry](https://github.com/EmperorPenguin18/libscry)  
+~ [scrycli](https://github.com/EmperorPenguin18/scrycli)  
+**Shell**  
+~ [linux-installer](https://github.com/EmperorPenguin18/linux-installer)  
+**Python**  
+~ [tidal-gtk](https://github.com/EmperorPenguin18/tidal-gtk)  
+~ [roguelike](https://github.com/EmperorPenguin18/roguelike)  
+**Rust**  
+~ [gobble](https://github.com/EmperorPenguin18/gobble)  
+**Lua**  
+~ [mpv-jellyfin](https://github.com/EmperorPenguin18/mpv-jellyfin)  
 
 I also have lots of gists worth checking out.
 
