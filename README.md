@@ -24,6 +24,7 @@ Here is a list of my coolest projects by language:
 ~ [gobble](https://github.com/EmperorPenguin18/gobble)  
 **Lua**  
 ~ [mpv-jellyfin](https://github.com/EmperorPenguin18/mpv-jellyfin)  
+~ [ld54](https://github.com/EmperorPenguin18/ld54)  
 
 I also have lots of gists worth checking out.
 
